@@ -1,0 +1,15 @@
+C:\Users\unkno\Documents\ТЕСТИРОВАНИЕ\GB\C#\Gr3588\Sem3Task23\bin\Debug\net6.0\Sem3Task23.exe
+C:\Users\unkno\Documents\ТЕСТИРОВАНИЕ\GB\C#\Gr3588\Sem3Task23\bin\Debug\net6.0\Sem3Task23.deps.json
+C:\Users\unkno\Documents\ТЕСТИРОВАНИЕ\GB\C#\Gr3588\Sem3Task23\bin\Debug\net6.0\Sem3Task23.runtimeconfig.json
+C:\Users\unkno\Documents\ТЕСТИРОВАНИЕ\GB\C#\Gr3588\Sem3Task23\bin\Debug\net6.0\Sem3Task23.dll
+C:\Users\unkno\Documents\ТЕСТИРОВАНИЕ\GB\C#\Gr3588\Sem3Task23\bin\Debug\net6.0\Sem3Task23.pdb
+C:\Users\unkno\Documents\ТЕСТИРОВАНИЕ\GB\C#\Gr3588\Sem3Task23\obj\Debug\net6.0\Sem3Task23.csproj.AssemblyReference.cache
+C:\Users\unkno\Documents\ТЕСТИРОВАНИЕ\GB\C#\Gr3588\Sem3Task23\obj\Debug\net6.0\Sem3Task23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unkno\Documents\ТЕСТИРОВАНИЕ\GB\C#\Gr3588\Sem3Task23\obj\Debug\net6.0\Sem3Task23.AssemblyInfoInputs.cache
+C:\Users\unkno\Documents\ТЕСТИРОВАНИЕ\GB\C#\Gr3588\Sem3Task23\obj\Debug\net6.0\Sem3Task23.AssemblyInfo.cs
+C:\Users\unkno\Documents\ТЕСТИРОВАНИЕ\GB\C#\Gr3588\Sem3Task23\obj\Debug\net6.0\Sem3Task23.csproj.CoreCompileInputs.cache
+C:\Users\unkno\Documents\ТЕСТИРОВАНИЕ\GB\C#\Gr3588\Sem3Task23\obj\Debug\net6.0\Sem3Task23.dll
+C:\Users\unkno\Documents\ТЕСТИРОВАНИЕ\GB\C#\Gr3588\Sem3Task23\obj\Debug\net6.0\refint\Sem3Task23.dll
+C:\Users\unkno\Documents\ТЕСТИРОВАНИЕ\GB\C#\Gr3588\Sem3Task23\obj\Debug\net6.0\Sem3Task23.pdb
+C:\Users\unkno\Documents\ТЕСТИРОВАНИЕ\GB\C#\Gr3588\Sem3Task23\obj\Debug\net6.0\Sem3Task23.genruntimeconfig.cache
+C:\Users\unkno\Documents\ТЕСТИРОВАНИЕ\GB\C#\Gr3588\Sem3Task23\obj\Debug\net6.0\ref\Sem3Task23.dll
