@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Sem4Task25/1.0.0": {
+        "runtime": {
+          "Sem4Task25.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sem4Task25/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

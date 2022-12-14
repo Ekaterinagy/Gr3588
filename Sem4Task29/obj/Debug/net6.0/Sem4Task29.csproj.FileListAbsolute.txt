@@ -1,0 +1,15 @@
+C:\Users\unkno\Documents\ТЕСТИРОВАНИЕ\GB\C#\Gr3588\Sem4Task29\bin\Debug\net6.0\Sem4Task29.exe
+C:\Users\unkno\Documents\ТЕСТИРОВАНИЕ\GB\C#\Gr3588\Sem4Task29\bin\Debug\net6.0\Sem4Task29.deps.json
+C:\Users\unkno\Documents\ТЕСТИРОВАНИЕ\GB\C#\Gr3588\Sem4Task29\bin\Debug\net6.0\Sem4Task29.runtimeconfig.json
+C:\Users\unkno\Documents\ТЕСТИРОВАНИЕ\GB\C#\Gr3588\Sem4Task29\bin\Debug\net6.0\Sem4Task29.dll
+C:\Users\unkno\Documents\ТЕСТИРОВАНИЕ\GB\C#\Gr3588\Sem4Task29\bin\Debug\net6.0\Sem4Task29.pdb
+C:\Users\unkno\Documents\ТЕСТИРОВАНИЕ\GB\C#\Gr3588\Sem4Task29\obj\Debug\net6.0\Sem4Task29.csproj.AssemblyReference.cache
+C:\Users\unkno\Documents\ТЕСТИРОВАНИЕ\GB\C#\Gr3588\Sem4Task29\obj\Debug\net6.0\Sem4Task29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unkno\Documents\ТЕСТИРОВАНИЕ\GB\C#\Gr3588\Sem4Task29\obj\Debug\net6.0\Sem4Task29.AssemblyInfoInputs.cache
+C:\Users\unkno\Documents\ТЕСТИРОВАНИЕ\GB\C#\Gr3588\Sem4Task29\obj\Debug\net6.0\Sem4Task29.AssemblyInfo.cs
+C:\Users\unkno\Documents\ТЕСТИРОВАНИЕ\GB\C#\Gr3588\Sem4Task29\obj\Debug\net6.0\Sem4Task29.csproj.CoreCompileInputs.cache
+C:\Users\unkno\Documents\ТЕСТИРОВАНИЕ\GB\C#\Gr3588\Sem4Task29\obj\Debug\net6.0\Sem4Task29.dll
+C:\Users\unkno\Documents\ТЕСТИРОВАНИЕ\GB\C#\Gr3588\Sem4Task29\obj\Debug\net6.0\refint\Sem4Task29.dll
+C:\Users\unkno\Documents\ТЕСТИРОВАНИЕ\GB\C#\Gr3588\Sem4Task29\obj\Debug\net6.0\Sem4Task29.pdb
+C:\Users\unkno\Documents\ТЕСТИРОВАНИЕ\GB\C#\Gr3588\Sem4Task29\obj\Debug\net6.0\Sem4Task29.genruntimeconfig.cache
+C:\Users\unkno\Documents\ТЕСТИРОВАНИЕ\GB\C#\Gr3588\Sem4Task29\obj\Debug\net6.0\ref\Sem4Task29.dll
