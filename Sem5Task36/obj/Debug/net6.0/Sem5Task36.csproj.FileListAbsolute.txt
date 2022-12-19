@@ -1,0 +1,15 @@
+C:\Users\unkno\Documents\ТЕСТИРОВАНИЕ\GB\C#\Gr3588\Sem5Task36\obj\Debug\net6.0\Sem5Task36.csproj.AssemblyReference.cache
+C:\Users\unkno\Documents\ТЕСТИРОВАНИЕ\GB\C#\Gr3588\Sem5Task36\obj\Debug\net6.0\Sem5Task36.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unkno\Documents\ТЕСТИРОВАНИЕ\GB\C#\Gr3588\Sem5Task36\obj\Debug\net6.0\Sem5Task36.AssemblyInfoInputs.cache
+C:\Users\unkno\Documents\ТЕСТИРОВАНИЕ\GB\C#\Gr3588\Sem5Task36\obj\Debug\net6.0\Sem5Task36.AssemblyInfo.cs
+C:\Users\unkno\Documents\ТЕСТИРОВАНИЕ\GB\C#\Gr3588\Sem5Task36\obj\Debug\net6.0\Sem5Task36.csproj.CoreCompileInputs.cache
+C:\Users\unkno\Documents\ТЕСТИРОВАНИЕ\GB\C#\Gr3588\Sem5Task36\bin\Debug\net6.0\Sem5Task36.exe
+C:\Users\unkno\Documents\ТЕСТИРОВАНИЕ\GB\C#\Gr3588\Sem5Task36\bin\Debug\net6.0\Sem5Task36.deps.json
+C:\Users\unkno\Documents\ТЕСТИРОВАНИЕ\GB\C#\Gr3588\Sem5Task36\bin\Debug\net6.0\Sem5Task36.runtimeconfig.json
+C:\Users\unkno\Documents\ТЕСТИРОВАНИЕ\GB\C#\Gr3588\Sem5Task36\bin\Debug\net6.0\Sem5Task36.dll
+C:\Users\unkno\Documents\ТЕСТИРОВАНИЕ\GB\C#\Gr3588\Sem5Task36\bin\Debug\net6.0\Sem5Task36.pdb
+C:\Users\unkno\Documents\ТЕСТИРОВАНИЕ\GB\C#\Gr3588\Sem5Task36\obj\Debug\net6.0\Sem5Task36.dll
+C:\Users\unkno\Documents\ТЕСТИРОВАНИЕ\GB\C#\Gr3588\Sem5Task36\obj\Debug\net6.0\refint\Sem5Task36.dll
+C:\Users\unkno\Documents\ТЕСТИРОВАНИЕ\GB\C#\Gr3588\Sem5Task36\obj\Debug\net6.0\Sem5Task36.pdb
+C:\Users\unkno\Documents\ТЕСТИРОВАНИЕ\GB\C#\Gr3588\Sem5Task36\obj\Debug\net6.0\Sem5Task36.genruntimeconfig.cache
+C:\Users\unkno\Documents\ТЕСТИРОВАНИЕ\GB\C#\Gr3588\Sem5Task36\obj\Debug\net6.0\ref\Sem5Task36.dll
