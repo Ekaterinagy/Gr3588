@@ -1,0 +1,15 @@
+C:\Users\unkno\Documents\ТЕСТИРОВАНИЕ\GB\C#\Gr3588\Sem6Task41\obj\Debug\net6.0\Sem6Task41.csproj.AssemblyReference.cache
+C:\Users\unkno\Documents\ТЕСТИРОВАНИЕ\GB\C#\Gr3588\Sem6Task41\obj\Debug\net6.0\Sem6Task41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unkno\Documents\ТЕСТИРОВАНИЕ\GB\C#\Gr3588\Sem6Task41\obj\Debug\net6.0\Sem6Task41.AssemblyInfoInputs.cache
+C:\Users\unkno\Documents\ТЕСТИРОВАНИЕ\GB\C#\Gr3588\Sem6Task41\obj\Debug\net6.0\Sem6Task41.AssemblyInfo.cs
+C:\Users\unkno\Documents\ТЕСТИРОВАНИЕ\GB\C#\Gr3588\Sem6Task41\obj\Debug\net6.0\Sem6Task41.csproj.CoreCompileInputs.cache
+C:\Users\unkno\Documents\ТЕСТИРОВАНИЕ\GB\C#\Gr3588\Sem6Task41\bin\Debug\net6.0\Sem6Task41.exe
+C:\Users\unkno\Documents\ТЕСТИРОВАНИЕ\GB\C#\Gr3588\Sem6Task41\bin\Debug\net6.0\Sem6Task41.deps.json
+C:\Users\unkno\Documents\ТЕСТИРОВАНИЕ\GB\C#\Gr3588\Sem6Task41\bin\Debug\net6.0\Sem6Task41.runtimeconfig.json
+C:\Users\unkno\Documents\ТЕСТИРОВАНИЕ\GB\C#\Gr3588\Sem6Task41\bin\Debug\net6.0\Sem6Task41.dll
+C:\Users\unkno\Documents\ТЕСТИРОВАНИЕ\GB\C#\Gr3588\Sem6Task41\bin\Debug\net6.0\Sem6Task41.pdb
+C:\Users\unkno\Documents\ТЕСТИРОВАНИЕ\GB\C#\Gr3588\Sem6Task41\obj\Debug\net6.0\Sem6Task41.dll
+C:\Users\unkno\Documents\ТЕСТИРОВАНИЕ\GB\C#\Gr3588\Sem6Task41\obj\Debug\net6.0\refint\Sem6Task41.dll
+C:\Users\unkno\Documents\ТЕСТИРОВАНИЕ\GB\C#\Gr3588\Sem6Task41\obj\Debug\net6.0\Sem6Task41.pdb
+C:\Users\unkno\Documents\ТЕСТИРОВАНИЕ\GB\C#\Gr3588\Sem6Task41\obj\Debug\net6.0\Sem6Task41.genruntimeconfig.cache
+C:\Users\unkno\Documents\ТЕСТИРОВАНИЕ\GB\C#\Gr3588\Sem6Task41\obj\Debug\net6.0\ref\Sem6Task41.dll
